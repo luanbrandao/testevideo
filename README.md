@@ -1,1 +1,1 @@
-[![Watch the video](video.mp4)]("../icon.png")
+![Preview](video.mp4)
