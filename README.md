@@ -28,15 +28,6 @@
 :paperclip: PostgreSQL
 
 
-
-<div align="center" , dis>
-<img width="900px" src="./img/doc.png">
-    <h1 align="center">
-        Documentação com Swagger
-    </h1>
-</div>
-
-
 ## :ballot_box_with_check: Execucanto o projeto
 !!! Para executar os comandos abaixo é priciso ter o docker instalado, caso tenho o postgres instalado pode pular esses passos.
 </br>
@@ -72,3 +63,11 @@ Antes de executar esse comando verifique se seu banco de dados está rodando  </
 
 ## :ballot_box_with_check: Documentação 
  acesse: http://localhost:3333/api-docs/#/ 
+<br>
+
+<div align="center" , dis>
+<img width="900px" src="./img/doc.png">
+    <h1 align="center">
+        Documentação com Swagger
+    </h1>
+</div>
