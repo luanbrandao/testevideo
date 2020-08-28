@@ -27,6 +27,66 @@
 ## Banco Dedos
 :paperclip: PostgreSQL
 
+## Estrutura da api
+```sh
+.
+├── @types
+│   └── express.d.ts
+├── config
+│   └── auth.ts
+│   └── config-swagger.ts
+├── modules
+│   └── favorites
+│       └── dtos
+│       └── infra
+│           └── http
+│               └── controllers
+│               └── doc
+│                   └── paths
+│                   └── schemas
+│               └── routes
+│           └── typeorm
+│               └── entities
+│               └── repositories
+│       └── repositories
+│           └── fakes
+│       └── services
+│   └── users
+│       └── dtos
+│       └── infra
+│           └── http
+│               └── controllers
+│               └── doc
+│                   └── paths
+│                   └── schemas
+│               └── routes
+│           └── typeorm
+│               └── entities
+│               └── repositories
+│       └── providers
+│           └── HashProvider
+│               └── fakes
+│               └── implementations
+│               └── models
+│       └── repositories
+│           └── fakes
+│       └── services
+
+├── shared
+│   └── container
+│   └── docs
+│   └── errors
+│   └── infra
+│       └── http
+│           └── routes
+│           └── server.ts
+│       └── typeorm
+│           └── migrations
+│   └── protocols
+
+
+favorites
+```
 
 ## :ballot_box_with_check: Execucanto o projeto
 !!! Para executar os comandos abaixo é priciso ter o docker instalado, caso tenho o postgres instalado pode pular esses passos.
