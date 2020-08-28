@@ -32,10 +32,10 @@
 
 1. :heavy_check_mark: [Criar Usuário](./requirements/signup.md)
 2. :heavy_check_mark: [Autenticação Usuário](./requirements/signup.md)
-3. :heavy_check_mark: [Adiconar Favorito](./requirements/signup.md)
-4. :heavy_check_mark: [Remover Favorito](./requirements/signup.md)
-5. :heavy_check_mark: [Listar Favoritos](./requirements/signup.md)
-6. :x: [Enviar email após remover favorito](./requirements/signup.md)
+3. :heavy_check_mark: [Adiconar Produto Favorito](./requirements/signup.md)
+4. :heavy_check_mark: [Remover Produto Favorito](./requirements/signup.md)
+5. :heavy_check_mark: [Listar Produtos Favoritos](./requirements/signup.md)
+6. :x: [Enviar email após remover produto favorito](./requirements/signup.md)
 
 
 
