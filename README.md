@@ -35,7 +35,7 @@
 3. :heavy_check_mark: [Listar Favoritos](./requirements/signup.md)
 4. :heavy_check_mark: [Criar Usuário](./requirements/signup.md)
 5. :heavy_check_mark: [Autenticação Usuário](./requirements/signup.md)
-6. x [Enviar email após remover favorito](./requirements/signup.md)
+6. :x: [Enviar email após remover favorito](./requirements/signup.md)
 
 
 
