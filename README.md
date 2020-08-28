@@ -48,7 +48,7 @@
 ``` yarn typeorm migrations:run ```
 
 ## :ballot_box_with_check: Rodando nossa API
-Antes de executar esse comando verifique se seu banco de dados está rodando
+Antes de executar esse comando verifique se seu banco de dados está rodando  </br>
 ``` yarn dev:server ``` 
 
 ## :ballot_box_with_check: TESTES
