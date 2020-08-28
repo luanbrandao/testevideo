@@ -4,13 +4,13 @@
 :red_circle: Node
 
 ## :wrench: Ferramentas
-:large_orange_diamond: Sucrase
 
 :large_orange_diamond: ESLint
-
 :large_orange_diamond: Prettier
-
-:large_orange_diamond: Sequelize
+:large_orange_diamond: Prettier
+:large_orange_diamond: TypeORM
+:large_orange_diamond: Jest
+:large_orange_diamond: Swagger
 
 
 ## Banco Dedos
