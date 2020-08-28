@@ -27,7 +27,7 @@
 ## Banco Dedos
 :paperclip: PostgreSQL
 
-## Estrutura da api
+## Estrutura da API
 ```sh
 .
 ├── @types
