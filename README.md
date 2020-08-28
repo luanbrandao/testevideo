@@ -6,12 +6,22 @@
 ## :wrench: Ferramentas
 
 :large_orange_diamond: ESLint
+:large_orange_diamond: Lint Staged
+:large_orange_diamond: Ts Node Dev
 :large_orange_diamond: Prettier
-:large_orange_diamond: Prettier
+:large_orange_diamond: Express
+:large_orange_diamond: Bcrypt
+:large_orange_diamond: Faker
+:large_orange_diamond: Tsyringe
+:large_orange_diamond: Celebrate
+:large_orange_diamond: Uuidv4
+:large_orange_diamond: Jsonwebtoken
+:large_orange_diamond: Commit Linter
+:large_orange_diamond: Husky
+:large_orange_diamond: Supertest
 :large_orange_diamond: TypeORM
 :large_orange_diamond: Jest
 :large_orange_diamond: Swagger
-
 
 ## Banco Dedos
 :paperclip: PostgreSQL
