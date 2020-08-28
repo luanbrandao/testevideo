@@ -1,11 +1,7 @@
-![Preview](video.mp4)
-
 <div align="center" , dis>
-    <img width="350px" src="./img/cadastro.png">
-    <img width="350px" src="./cadastro.png">
-    <img width="350px" src="./cadastro.png">
-    <img width="350px" src="./cadastro.png">
+    <img width="350px" src="./img/doc.png">
+   
     <h1 align="center">
-        DDDs
+        Documentação da API
     </h1>
 </div>
