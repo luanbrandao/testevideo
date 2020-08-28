@@ -30,6 +30,7 @@
 :heavy_check_mark: Criando container do banco postgres no docker
  escolhi a porta 5433, você pode optar por outra
 ``` docker run --name postgres -e POSTGRES_PASSWORD=SUA_SENHA -p 5433:5432 -d postgres:11 ```
+</br>
 :heavy_check_mark: rodando o container do postgres
 ```  docker start postgres ```
 
