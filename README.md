@@ -1,5 +1,7 @@
-### API desenvolvida utilizando a arquitetura DDD
+## :wrench: API desenvolvida utilizando a arquitetura DDD
 
+## :wrench: Tecnologias
+:red_circle: Node
 
 ## :wrench: Ferramentas
 :large_orange_diamond: Sucrase
