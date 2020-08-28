@@ -41,11 +41,15 @@
 ```  docker start postgres ```
 
 
-### :ballot_box_with_check: Banco de dados
+:heavy_check_mark: Banco de dados
 <p> Crie um banco de dados com o nome 'aftersale' e altere suas credenciais no arquivo 'ormconfig.json' </p>
 
-## Criando o Banco de dados
+:heavy_check_mark: Criando o Banco de dados
 ``` yarn typeorm migrations:run ```
+
+## :ballot_box_with_check: Rodando nossa API
+Antes de executar esse comando verifique se seu banco de dados está rodando
+``` yarn dev:server ``` 
 
 ## :ballot_box_with_check: TESTES
 ``` yarn test ``` </br>
@@ -54,9 +58,6 @@
 ``` yarn test:staged ``` </br>
 ``` yarn test:ci ``` </br>
 
-## :ballot_box_with_check: Rodando nossa API
-Antes de executar esse comando verifique se seu banco de dados está rodando
-``` yarn dev:server ``` 
 
 ## :ballot_box_with_check: Documentação 
  acesse: http://localhost:3333/api-docs/#/ 
