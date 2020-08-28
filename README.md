@@ -1,6 +1,4 @@
 ### API desenvolvida utilizando a arquitetura DDD
-### Para os teste foi utilizado JEST
-### Para a documentação foi utilizado o SWAGGER
 <div align="center" , dis>
 <img width="900px" src="./img/doc.png">
     <h1 align="center">
