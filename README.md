@@ -48,11 +48,11 @@
 ``` yarn typeorm migrations:run ```
 
 ## :ballot_box_with_check: TESTES
-``` yarn test ```
-``` yarn test:watch ```
-``` yarn test:verbose ```
-``` yarn test:staged ```
-``` yarn test:ci ```
+``` yarn test ``` </br>
+``` yarn test:watch ``` </br>
+``` yarn test:verbose ``` </br>
+``` yarn test:staged ``` </br>
+``` yarn test:ci ``` </br>
 
 ## :ballot_box_with_check: Rodando nossa API
 Antes de executar esse comando verifique se seu banco de dados está rodando
