@@ -84,8 +84,6 @@
 │           └── migrations
 │   └── protocols
 
-
-favorites
 ```
 
 ## :ballot_box_with_check: Execucanto o projeto
