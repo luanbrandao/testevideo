@@ -22,6 +22,7 @@
 :large_orange_diamond: TypeORM
 :large_orange_diamond: Jest
 :large_orange_diamond: Swagger
+:large_orange_diamond: Docker
 
 ## Banco Dedos
 :paperclip: PostgreSQL
