@@ -1,6 +1,6 @@
-# API desenvolvida utilizando a arquitetura DDD
-# Para os teste foi utilizado JEST
-# Para a documentação foi utilizado o SWAGGER
+### API desenvolvida utilizando a arquitetura DDD
+### Para os teste foi utilizado JEST
+### Para a documentação foi utilizado o SWAGGER
 <div align="center" , dis>
 <img width="900px" src="./img/doc.png">
     <h1 align="center">
@@ -9,7 +9,7 @@
 </div>
 
 # Preparando o ambiente
-## !!! Para executar os comandos abaixo é priciso ter o docker instalado, caso tenho o postgres instalado pode pular esses passos.
+!!! Para executar os comandos abaixo é priciso ter o docker instalado, caso tenho o postgres instalado pode pular esses passos.
 ## Criando container do banco postgres no docker
 ### escolhi a porta 5433, você pode optar por outra
 ``` docker run --name postgres -e POSTGRES_PASSWORD=SUA_SENHA -p 5433:5432 -d postgres:11 ```
