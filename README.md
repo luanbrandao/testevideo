@@ -67,7 +67,4 @@ Antes de executar esse comando verifique se seu banco de dados está rodando  </
 
 <div align="center" , dis>
 <img width="900px" src="./img/doc.png">
-    <h1 align="center">
-        Documentação com Swagger
-    </h1>
 </div>
